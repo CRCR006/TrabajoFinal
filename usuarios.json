@@ -1,0 +1,13 @@
+[ {
+  "nombre" : "Carlos",
+  "contra" : "1234",
+  "admin" : true
+}, {
+  "nombre" : "Noelia",
+  "contra" : "12345",
+  "admin" : false
+}, {
+  "nombre" : "Mario",
+  "contra" : "12345",
+  "admin" : true
+} ]
